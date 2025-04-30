@@ -72,7 +72,7 @@ export default function Home() {
               <div className="space-y-6">
                 <h2 className="text-3xl font-bold tracking-tight">Store and verify skill credentials on-chain</h2>
                 <p className="text-lg text-muted-foreground">
-                  SkillChain allows you to securely store your educational achievements, certifications, and skills on
+                  SkillDCX allows you to securely store your educational achievements, certifications, and skills on
                   the blockchain, making them easily verifiable by employers and institutions.
                 </p>
                 <p className="text-lg text-muted-foreground">
@@ -251,7 +251,7 @@ export default function Home() {
         <div className="container">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             <div>
-              <h3 className="font-bold mb-4">SkillChain</h3>
+              <h3 className="font-bold mb-4">SkillDCX</h3>
               <ul className="space-y-2">
                 <li>
                   <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
@@ -315,7 +315,7 @@ export default function Home() {
               <ul className="space-y-2">
                 <li>
                   <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
-                    Twitter
+                    X
                   </a>
                 </li>
                 <li>
