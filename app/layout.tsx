@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SkillChain - Decentralized Skill Verification Platform",
+  title: "SkillDCX - Decentralized Skill Verification Platform",
   description: "Verify, validate, and elevate your skills with blockchain-powered credentials",
     generator: 'v0.dev'
 }
