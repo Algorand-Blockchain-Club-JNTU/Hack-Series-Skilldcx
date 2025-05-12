@@ -332,7 +332,7 @@ export default function Home() {
             </div>
           </div>
           <div className="mt-12 pt-8 border-t text-center text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} SkillChain. All rights reserved.
+            &copy; {new Date().getFullYear()} SkillDCX. All rights reserved.
           </div>
         </div>
       </footer>
